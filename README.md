@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sulinya, an <a href="https://linkedin.com/in/Sulinya">IT Professional</a></h1>
+<h1>Hi, I'm Sulinya, an <a href="https://www.linkedin.com/in/sulinya-vang-6883201a6/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
